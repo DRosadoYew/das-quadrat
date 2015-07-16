@@ -325,6 +325,7 @@
 		476B70801A0EBAE700AFAC33 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0610;
 				ORGANIZATIONNAME = "Constantine Fry";
 				TargetAttributes = {
@@ -333,7 +334,6 @@
 					};
 					476B70D91A0EBBA500AFAC33 = {
 						CreatedOnToolsVersion = 6.1;
-						DevelopmentTeam = 6E9832W2ZK;
 					};
 				};
 			};
